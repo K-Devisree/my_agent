@@ -1,0 +1,4 @@
+AI Agents are intelligent systems that can perform tasks autonomously.
+They use memory, reasoning, and tools.
+They are used in automation, chatbots, and smart assistants.
+LangChain and Hugging Face are popular frameworks for building AI agents.
