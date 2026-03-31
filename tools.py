@@ -28,7 +28,7 @@ def get_joke():
 
 # News function using Currents API (requires API key)
 def get_news():
-    API_KEY = "VfunKOHDgTSJDnFOc7Y6qcl_FN9XC35Bp4YxfoR2SH5BRcS3"  # Replace with your free API key from currentsapi.services
+    API_KEY = "4WPZq8BF5Sr9ngzMdp3zrKuO43M9d6sO-Iebim_zpFDIqr_b"  # Replace with your free API key from currentsapi.services
     url = f"https://api.currentsapi.services/v1/latest-news?apiKey={API_KEY}"
     try:
         res = requests.get(url).json()
